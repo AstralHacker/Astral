@@ -8,7 +8,11 @@ Coming soon...
 
 ## Definitions
 JS  = JavaScript
+
 Py  = Python
+
 LPE = Local Privilege Escalation 
+
 Exp = Exploit
+
 Ast = Astral
